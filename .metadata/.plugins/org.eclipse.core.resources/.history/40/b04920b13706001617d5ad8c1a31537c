@@ -1,0 +1,10 @@
+import org.hyperic.sigar.Sigar;
+
+
+
+public class Main {
+	private static Sigar sigar = new Sigar();
+	public static void main(String [] args){
+		
+	}
+}
